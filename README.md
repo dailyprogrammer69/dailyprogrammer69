@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dailyprogrammer69
 - 👀 I’m interested in python
-- 🌱 I’m currently learning pytho 
+- 🌱 I’m currently learning python 
 - 📫 How to reach me ahmadmazhar914@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dailyprogrammer69
+- 👋 Hi, I’m @ahmad mazhar
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python 
 - 📫 How to reach me ahmadmazhar914@gmail.com
